@@ -32,7 +32,7 @@ public class GUI {
             pane.setComponentOrientation(ComponentOrientation.RIGHT_TO_LEFT);
         }
  
-        /** Objects **/
+        /** GUI Component Objects **/
         JLabel enterIP = new JLabel("Please enter the IP address of the module");
         final JTextField IP = new JTextField();
         JLabel enterDirName = new JLabel("<html><div width=\"300\">Please enter the name for the created directory. No spaces are allowed."
@@ -227,7 +227,7 @@ public class GUI {
     /** The class to run the progress bar in it's own thread **/
     public static class progressBar implements Runnable{
     	static boolean isTerminating;
-    	static boolean progressIncrease = true;
+    	static int limit = 1;
 		@Override
 		public void run() {
 			try{
@@ -237,11 +237,12 @@ public class GUI {
 				while(!isTerminating && pBar.getValue() < 990){
 					if(pBar.getValue() > 330 && pBar.getValue() <= 500)
 						pBar.setString("You can do it!");
-					if(pBar.getValue() > 500 && pBar.getValue() <= 660)
+					else if(pBar.getValue() > 500 && pBar.getValue() <= 660)
 						pBar.setString("Run Forrest run!");
-					if(pBar.getValue() > 660 && pBar.getValue() < 990)
+					else if(pBar.getValue() > 660 && pBar.getValue() < 990)
 						pBar.setString("I believe in you!");
-					if(progressIncrease){
+					
+					if(true){
 						pBar.setValue(pBar.getValue()+1);
 						Thread.sleep(75);
 						} 
@@ -253,10 +254,19 @@ public class GUI {
 				e.printStackTrace();
 			}
 		}
+		
+		//Terminate the Progress Bar thread
 		public static void setTerminating(boolean b){isTerminating = b;}
-		public static void setIncreasing(boolean b){progressIncrease = b;}
+		
+		public static void increaseLimit(){limit++;
+											pBar.setValue(limit*9);}
+		public static void taskDone(){pBar.setValue(pBar.getValue()+9);}
+		public static void resetLimit(){limit = 1;}
+		
+		//Finish the logs
 		public static void setDone(){
 			try {
+				resetLimit();
 				pBar.setString("Logs Recieved");
 				pBar.setValue(1000);
 				Thread.sleep(10000);

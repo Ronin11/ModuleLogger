@@ -7,15 +7,14 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Map;
 
 
 
 public class Commands {
-	static boolean windowsOS;
-	static String IP;
 	
-	public static void setIP(String ip){IP = ip;}
+	/** Member Variables **/
+	static boolean windowsOS; //True means the OS is windows, false means Mac/Linux
+	static String IP;
 	
 	/** Get the runtime OS to determine which commands to run **/
 	public static void getOs(){
@@ -29,6 +28,37 @@ public class Commands {
 		//Use this for testing in the multiple environments
 		//GUI.createWarning(OS + "\n" + windowsOS);
 		}
+	
+	/** Make the ping class Threadable **/
+	public static class ping implements Runnable{
+		public static boolean isRunning = false;
+		/** Ping the IP and see if it is there. If it is return true.
+	 	*  Also use the windowsOS boolean to switch commands **/
+		@Override
+		public void run(){
+			isRunning = true;
+			String output;
+			if(windowsOS)
+				output = CMDcall("ping -n 3 " + IP);//If the host is there return true.
+			else
+				output = sysCall("ping -c 3 -W .05 " + IP);//If the host is there return true.
+
+			//If the host is there, get the logs in a new thread!
+			if(output.contains("round-trip") || output.contains("Average")){
+				Thread logs = new Thread(new getLogs());
+				logs.start();
+			}
+			//Else let the user know.
+			else{
+				GUI.progressBar.setTerminating(true);
+				isRunning = false;
+				String message = "<html><div width = \"200\"> That IP is not responding. "
+						+ "If you need help, open the help menu.</div></html>";
+				GUI.createWarning(message);
+			}
+			
+		}
+	}
 	
 	/** Easy to call from ping, determines which system calls to run **/
 	public static class getLogs implements Runnable{
@@ -57,46 +87,16 @@ public class Commands {
 			/** Get the logs from the Module in a Mac/Linux environment. **/
 			else{
 				sysCall("mkdir -p ModuleLogs/Data");
-				sysCall("scp -i testing_rsa root@"+ IP + ":/var/log/messages ModuleLogs/Data/messages");
+				sysCall("scp -o stricthostkeychecking=no -i ./LoggerAssets/testing_rsa root@"+ IP 
+						+ ":/var/log/messages ModuleLogs/Data/messages");
 				for(int i = 0; i < 10; i++){
-					sysCall("scp -i testing_rsa root@"+ IP + ":/var/log/messages."+ i +" ModuleLogs/Data/messages" + i);
+					sysCall("scp -o stricthostkeychecking=no -i ./LoggerAssets/testing_rsa root@"+ IP 
+							+ ":/var/log/messages."+ i +" ModuleLogs/Data/messages" + i);
 					}
 				sysCall("mv ModuleLogs/Data ModuleLogs/"+name);
 				}
 			GUI.progressBar.setDone();
-			//GUI.progressBar.setTerminating(true);
 			ping.isRunning = false;
-		}
-	}
-
-	
-	public static class ping implements Runnable{
-		public static boolean isRunning = false;
-		/** Ping the IP and see if it is there. If it is return true.
-	 	*  Also use the windowsOS boolean to switch commands **/
-		@Override
-		public void run(){
-			isRunning = true;
-			String output;
-			if(windowsOS)
-				output = CMDcall("ping -n 3 " + IP);//If the host is there return true.
-			else
-				output = sysCall("ping -c 3 -W .05 " + IP);//If the host is there return true.
-
-			//If the host is there, get the logs in a new thread!
-			if(output.contains("round-trip") || output.contains("Average")){
-				Thread logs = new Thread(new getLogs());
-				logs.start();
-			}
-			//Else let the user know.
-			else{
-				GUI.progressBar.setTerminating(true);
-				isRunning = false;
-				String message = "<html><div width = \"200\"> That IP is not responding. "
-						+ "If you need help, open the help menu.</div></html>";
-				GUI.createWarning(message);
-			}
-			
 		}
 	}
 	
@@ -132,6 +132,7 @@ public class Commands {
 	    return returnString;
 	    }
 	
+		/** Use the ProcessBuilder to run Windows commands **/
 		 private static String CMDcall(String sysCom) 
 		  {
 		String output = null;
@@ -141,10 +142,7 @@ public class Commands {
 		    command.add("/C");
 		    command.add(sysCom);
 
-
 		    ProcessBuilder builder = new ProcessBuilder(command);
-		    Map<String, String> environ = builder.environment();
-
 		    Process process;
 			process = builder.start();
 		    InputStream is = process.getInputStream();
@@ -155,12 +153,13 @@ public class Commands {
 		      output = line;
 		    }
 		  }catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		 return output;
 		  }
 		
+		 /** Set the IP for the Commands **/
+		 public static void setIP(String ip){IP = ip;}
 	
 	
 }
