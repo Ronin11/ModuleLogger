@@ -1,0 +1,1346 @@
+Jan  1 05:55:37 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:55:37 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:55:37 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:55:37 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:55:37 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:55:38 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:55:39 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:55:40 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:55:41 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:42 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:55:42 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:55:42 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:55:42 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:55:42 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4085.0 bytes/sec).
+Jan  1 05:55:42 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:55:42 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:43 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 05:55:44 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:45 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:55:46 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 05:55:47 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:55:47 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:55:47 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:55:47 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:55:47 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:55:47 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:55:48 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:49 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:50 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:51 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:52 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:55:52 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:55:52 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:55:52 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:55:52 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:55:52 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:55:52 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:53 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:54 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:55 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:56 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:55:57 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:55:57 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:55:57 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:55:57 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:55:57 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:55:57 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:55:57 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:55:59 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:56:00 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:01 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:02 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:02 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:02 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:02 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:02 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:02 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:56:02 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:03 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:56:04 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:05 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:06 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:07 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:07 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:07 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:07 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:07 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 05:56:07 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:07 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:08 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:10 utConsoleCom: WiFi Connect: Signal strength is 30
+Jan  1 05:56:11 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:12 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:12 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:12 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:12 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:12 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:12 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:56:12 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:13 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:14 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:15 utConsoleCom: WiFi Connect: Signal strength is 75
+Jan  1 05:56:16 utConsoleCom: WiFi Connect: Signal strength is 75
+Jan  1 05:56:17 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:17 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:17 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:17 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:17 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:56:17 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:17 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:56:18 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:19 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:56:21 utConsoleCom: WiFi Connect: Signal strength is 75
+Jan  1 05:56:22 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:22 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:22 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:56:22 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:22 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:22 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:56:22 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:23 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:24 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:25 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:26 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:27 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:27 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:27 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:27 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:27 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:56:27 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:27 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:28 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:29 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:30 utConsoleCom: WiFi Connect: Signal strength is 81
+Jan  1 05:56:32 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:56:32 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:32 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:32 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:32 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:32 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3364.0 bytes/sec).
+Jan  1 05:56:32 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:33 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:56:34 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:35 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:36 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:37 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:37 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:37 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:37 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:37 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:37 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:56:37 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:38 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:39 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:40 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:41 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:42 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:42 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:42 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:42 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:42 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:56:42 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:43 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:44 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:45 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 05:56:46 utConsoleCom: WiFi Connect: Signal strength is 75
+Jan  1 05:56:46 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:46 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:47 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:47 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:47 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:47 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3575.0 bytes/sec).
+Jan  1 05:56:47 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:48 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:49 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:50 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:51 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:52 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:52 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:52 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:52 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:52 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3813.0 bytes/sec).
+Jan  1 05:56:52 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:52 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:56:53 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:56:55 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:56:56 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:56:56 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:56:56 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:56:57 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:56:57 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:56:57 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:56:57 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:56:57 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:56:58 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:56:59 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:00 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:01 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 05:57:01 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:02 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:02 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:02 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:02 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 7150.0 bytes/sec).
+Jan  1 05:57:02 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:02 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:03 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:04 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:06 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:06 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:06 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:07 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:07 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:07 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:07 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4400.0 bytes/sec).
+Jan  1 05:57:07 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:08 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:09 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:10 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:11 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:11 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:11 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:12 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:12 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:12 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:57:12 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:12 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:13 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:14 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:15 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:16 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:16 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:17 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:17 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:17 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:17 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4400.0 bytes/sec).
+Jan  1 05:57:17 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:18 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:19 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:57:20 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:21 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:21 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:21 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:22 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:22 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:22 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:57:22 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:22 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:23 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:24 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:25 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:26 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:26 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:26 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:27 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:27 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:27 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:57:27 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:28 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:29 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:30 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:31 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 05:57:31 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:31 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:32 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:32 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:32 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:57:32 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:32 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:33 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 05:57:34 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:35 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:36 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:36 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:36 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:37 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:37 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:37 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:57:37 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:37 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:39 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:40 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:41 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:41 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:41 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:42 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:42 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:42 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:42 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3813.0 bytes/sec).
+Jan  1 05:57:42 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:43 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:43 soap_get: URL is http://machines.iconfitness.com/iFitLiveServices/services/WorkoutDownloadWebServiceV1
+Jan  1 05:57:43 soap_get: Agent Model: EXIF2012
+Jan  1 05:57:43 soap_get: Agent version: 1.0.0
+Jan  1 05:57:44 soap_get: soap_get exiting with errorcode 10
+Jan  1 05:57:44 parse_xml: Error getting converted date string. Clock will not be changed
+Jan  1 05:57:44 parse_xml: User count: 1
+Jan  1 05:57:44 parse_xml: [User 0]
+Jan  1 05:57:44 parse_xml: 	  Name: kelseyn
+Jan  1 05:57:44 parse_xml: 	  Hash: 6d587673-2ffd-41e6-ba72-7ae282cc0c4a
+Jan  1 05:57:44 parse_xml: 	Weight: 138
+Jan  1 05:57:44 utwifi: Loaded user #0: "kelseyn" from userfile
+Jan  1 05:57:44 utwifi: Loaded user weight = 138 for user kelseyn
+Jan  1 05:57:44 utwifi: <>New user information loaded from the file
+Jan  1 05:57:44 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:45 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:46 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:46 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:46 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:46 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:46 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:47 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:57:47 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:47 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:48 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:50 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:51 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:51 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:51 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:52 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:52 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:52 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:57:52 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:52 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:57:53 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:54 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:55 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:56 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:56 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:57:56 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:57:57 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:57:57 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:57:57 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:57:57 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:57:57 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:58 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:57:59 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:00 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:01 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:01 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:02 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 05:58:02 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:02 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:02 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:58:02 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:03 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 05:58:04 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 05:58:05 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:06 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:06 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:06 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:07 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:07 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:07 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:58:07 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:07 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:08 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:09 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:10 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:11 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:11 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:11 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:11 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:11 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:12 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:58:12 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:13 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:14 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:15 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:16 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:16 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:16 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:17 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:17 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:17 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 2200.0 bytes/sec).
+Jan  1 05:58:17 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:17 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:18 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:19 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:20 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:21 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:21 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:21 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:22 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:22 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:22 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 2383.0 bytes/sec).
+Jan  1 05:58:22 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:22 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:24 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:25 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:26 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:26 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:26 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:27 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:27 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:27 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:27 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:58:27 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:28 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:29 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:30 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:58:31 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:31 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:31 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:32 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:32 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:32 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4400.0 bytes/sec).
+Jan  1 05:58:32 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:32 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 05:58:33 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:35 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:36 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:58:36 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:36 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:36 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:36 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:37 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3813.0 bytes/sec).
+Jan  1 05:58:37 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:37 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:38 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:39 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:40 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:41 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:41 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:41 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:42 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:42 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:42 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4400.0 bytes/sec).
+Jan  1 05:58:42 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:42 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:43 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:44 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:46 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:46 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:46 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:47 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:47 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:47 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:47 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:58:47 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:48 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:49 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:50 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:51 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:58:51 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:51 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:52 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:52 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:52 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 05:58:52 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:52 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:53 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:54 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:55 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:56 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:58:56 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:58:57 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:57 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:58:57 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:58:57 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4400.0 bytes/sec).
+Jan  1 05:58:57 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:58:58 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:58:58 dropbear[27491]: Child connection from 192.168.1.33:49510
+Jan  1 05:58:59 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:00 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:01 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:01 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:01 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:01 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:01 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:02 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:59:02 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:02 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:03 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:04 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:05 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:06 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:06 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:06 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:06 dropbear[27491]: Exit before auth (user 'root', 0 fails): Exited normally
+Jan  1 05:59:07 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:07 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:07 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 05:59:07 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:07 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:09 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:10 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:11 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:11 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:11 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:12 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:12 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:12 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 05:59:12 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:12 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 05:59:13 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:14 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:15 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:16 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:16 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:16 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:17 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:17 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:17 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:59:17 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:17 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:18 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:20 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:21 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 05:59:21 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:21 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:21 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:21 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:21 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 05:59:21 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:22 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:23 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:24 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:25 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:26 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:26 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:26 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:26 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:26 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:27 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 05:59:27 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:27 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:28 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:29 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:31 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 05:59:31 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:31 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:32 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:32 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:32 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:32 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 1003.0 bytes/sec).
+Jan  1 05:59:32 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:33 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:34 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:35 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:36 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:36 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:36 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:37 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:37 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:37 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 2288.0 bytes/sec).
+Jan  1 05:59:37 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:37 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:38 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:39 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:40 dropbear[27904]: Child connection from 192.168.1.33:49538
+Jan  1 05:59:40 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:41 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:41 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:42 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:42 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:42 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:42 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3575.0 bytes/sec).
+Jan  1 05:59:42 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:43 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:44 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 05:59:45 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 05:59:46 dropbear[27904]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49538
+Jan  1 05:59:46 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:46 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:46 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:46 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:46 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:47 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 937.0 bytes/sec).
+Jan  1 05:59:47 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:47 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:48 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:49 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:50 dropbear[27904]: Exit (root): Disconnect received
+Jan  1 05:59:50 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:51 dropbear[27991]: Child connection from 192.168.1.33:49545
+Jan  1 05:59:51 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:53 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:53 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:53 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:54 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:54 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 2288.0 bytes/sec).
+Jan  1 05:59:54 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:55 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:56 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 05:59:56 dropbear[27991]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49545
+Jan  1 05:59:57 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 05:59:58 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 05:59:58 dropbear[27991]: Exit (root): Disconnect received
+Jan  1 05:59:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 05:59:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 05:59:58 dropbear[28050]: Child connection from 192.168.1.33:49549
+Jan  1 05:59:59 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 05:59:59 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 05:59:59 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3813.0 bytes/sec).
+Jan  1 05:59:59 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 05:59:59 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:00 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:01 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:02 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:04 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:04 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:04 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:04 dropbear[28050]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49549
+Jan  1 06:00:04 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4085.0 bytes/sec).
+Jan  1 06:00:04 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:05 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:06 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:06 dropbear[28050]: Exit (root): Disconnect received
+Jan  1 06:00:06 dropbear[28125]: Child connection from 192.168.1.33:49554
+Jan  1 06:00:07 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:08 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:08 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:08 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:08 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3177.0 bytes/sec).
+Jan  1 06:00:08 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:09 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:10 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:11 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:12 dropbear[28125]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49554
+Jan  1 06:00:12 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:13 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:13 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:13 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:13 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:00:13 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:14 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:15 dropbear[28125]: Exit (root): Disconnect received
+Jan  1 06:00:15 dropbear[28200]: Child connection from 192.168.1.33:49563
+Jan  1 06:00:16 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:17 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:00:18 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:00:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:18 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:18 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:19 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:00:19 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:19 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:00:20 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:00:20 dropbear[28200]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49563
+Jan  1 06:00:21 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:22 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:22 dropbear[28200]: Exit (root): Disconnect received
+Jan  1 06:00:22 dropbear[28257]: Child connection from 192.168.1.33:49570
+Jan  1 06:00:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:23 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:00:24 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:24 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:24 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3813.0 bytes/sec).
+Jan  1 06:00:24 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:24 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:00:25 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:27 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:00:28 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:28 dropbear[28257]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49570
+Jan  1 06:00:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:29 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:29 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:29 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:29 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 1505.0 bytes/sec).
+Jan  1 06:00:29 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:30 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:30 dropbear[28257]: Exit (root): Disconnect received
+Jan  1 06:00:31 dropbear[28316]: Child connection from 192.168.1.33:49575
+Jan  1 06:00:31 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:32 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:33 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:33 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:33 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:33 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3813.0 bytes/sec).
+Jan  1 06:00:33 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:34 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:35 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:36 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:37 dropbear[28316]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49575
+Jan  1 06:00:38 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:38 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:38 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:39 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:39 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 937.0 bytes/sec).
+Jan  1 06:00:39 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:40 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:41 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:41 dropbear[28316]: Exit (root): Disconnect received
+Jan  1 06:00:41 dropbear[28389]: Child connection from 192.168.1.33:49585
+Jan  1 06:00:42 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:43 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:00:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:43 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:43 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:44 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3364.0 bytes/sec).
+Jan  1 06:00:44 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:44 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:00:45 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:00:46 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:00:47 dropbear[28389]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49585
+Jan  1 06:00:47 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:00:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:49 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:00:49 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:49 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:49 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 794.0 bytes/sec).
+Jan  1 06:00:49 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:50 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:00:50 dropbear[28389]: Exit (root): Disconnect received
+Jan  1 06:00:50 dropbear[28476]: Child connection from 192.168.1.33:49590
+Jan  1 06:00:51 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:00:52 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:00:53 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:00:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:54 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:54 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:54 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:00:55 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 446.0 bytes/sec).
+Jan  1 06:00:55 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:00:55 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:00:56 dropbear[28476]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49590
+Jan  1 06:00:56 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:00:57 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:00:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:00:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:00:58 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:00:58 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:00:58 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:00:59 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 1040.0 bytes/sec).
+Jan  1 06:00:59 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:00 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:01 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:01:01 dropbear[28476]: Exit (root): Disconnect received
+Jan  1 06:01:01 dropbear[28564]: Child connection from 192.168.1.33:49596
+Jan  1 06:01:02 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:01:03 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:01:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:03 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:03 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:03 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4085.0 bytes/sec).
+Jan  1 06:01:03 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:04 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:05 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:06 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:07 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:08 dropbear[28564]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49596
+Jan  1 06:01:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:08 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:01:08 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:08 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:09 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:01:09 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:09 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:01:11 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:11 dropbear[28564]: Exit (root): Disconnect received
+Jan  1 06:01:12 dropbear[28650]: Child connection from 192.168.1.33:49603
+Jan  1 06:01:12 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:13 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:14 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:14 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:14 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:01:14 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:14 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:15 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:16 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:01:17 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:17 dropbear[28650]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49603
+Jan  1 06:01:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:18 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:18 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:18 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:18 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 06:01:18 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:19 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:20 dropbear[28650]: Exit (root): Disconnect received
+Jan  1 06:01:20 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:01:21 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:01:23 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:01:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:23 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:23 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:23 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4085.0 bytes/sec).
+Jan  1 06:01:23 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:24 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:01:25 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:26 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:01:27 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:28 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:28 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:28 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:28 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:01:28 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:29 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:30 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:01:31 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:32 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:33 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:33 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:34 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:34 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3177.0 bytes/sec).
+Jan  1 06:01:34 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:35 utConsoleCom: WiFi Connect: Signal strength is 75
+Jan  1 06:01:36 utConsoleCom: WiFi Connect: Signal strength is 75
+Jan  1 06:01:37 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:01:38 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:39 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:39 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:39 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4400.0 bytes/sec).
+Jan  1 06:01:39 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:39 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:40 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:41 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:01:42 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:43 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:43 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:43 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 2486.0 bytes/sec).
+Jan  1 06:01:43 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:43 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:01:45 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:46 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:01:47 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:48 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:48 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:48 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:48 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:01:48 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:49 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:50 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:51 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 06:01:52 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:53 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:01:53 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:53 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:54 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3010.0 bytes/sec).
+Jan  1 06:01:54 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:54 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:01:56 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:01:57 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:58 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:01:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:01:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:01:58 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:01:58 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:01:59 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:01:59 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:01:59 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:02:00 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:01 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:02 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:03 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:03 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:03 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 06:02:03 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:03 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:04 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:05 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:07 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:08 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:08 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:08 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:08 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 06:02:08 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:09 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:10 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:11 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:12 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:13 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:13 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:13 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:13 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 06:02:13 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:14 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:15 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:16 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:18 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:18 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:18 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:19 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 2600.0 bytes/sec).
+Jan  1 06:02:19 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:19 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:20 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:21 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:22 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:23 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:23 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:23 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:24 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 2383.0 bytes/sec).
+Jan  1 06:02:24 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:24 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:25 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:26 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:27 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:28 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:28 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:28 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 06:02:28 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:28 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:29 dropbear[29374]: Child connection from 192.168.1.33:49641
+Jan  1 06:02:30 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:31 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:32 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:33 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:33 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:33 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:33 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:02:33 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:34 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:35 dropbear[29374]: Bad password attempt for 'root' from 192.168.1.33:49641
+Jan  1 06:02:35 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:35 dropbear[29374]: Bad password attempt for 'root' from 192.168.1.33:49641
+Jan  1 06:02:36 dropbear[29374]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:02:36 dropbear[29435]: Child connection from 192.168.1.33:49648
+Jan  1 06:02:36 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:37 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:38 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:38 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:38 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:02:38 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:38 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:39 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:41 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:41 dropbear[29435]: Bad password attempt for 'root' from 192.168.1.33:49648
+Jan  1 06:02:42 dropbear[29435]: Bad password attempt for 'root' from 192.168.1.33:49648
+Jan  1 06:02:42 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:42 dropbear[29435]: Bad password attempt for 'root' from 192.168.1.33:49648
+Jan  1 06:02:43 dropbear[29435]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:02:43 dropbear[29484]: Child connection from 192.168.1.33:49654
+Jan  1 06:02:43 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:43 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:43 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:44 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 2600.0 bytes/sec).
+Jan  1 06:02:44 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:44 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:45 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:46 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:47 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:48 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:48 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:48 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:48 dropbear[29484]: Bad password attempt for 'root' from 192.168.1.33:49654
+Jan  1 06:02:49 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4085.0 bytes/sec).
+Jan  1 06:02:49 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:49 dropbear[29484]: Bad password attempt for 'root' from 192.168.1.33:49654
+Jan  1 06:02:49 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 06:02:49 dropbear[29484]: Bad password attempt for 'root' from 192.168.1.33:49654
+Jan  1 06:02:50 dropbear[29484]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:02:50 dropbear[29545]: Child connection from 192.168.1.33:49657
+Jan  1 06:02:50 utConsoleCom: WiFi Connect: Signal strength is 67
+Jan  1 06:02:52 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:53 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:53 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:53 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:53 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4085.0 bytes/sec).
+Jan  1 06:02:53 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:54 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:55 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:02:56 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:56 dropbear[29545]: Bad password attempt for 'root' from 192.168.1.33:49657
+Jan  1 06:02:57 dropbear[29545]: Bad password attempt for 'root' from 192.168.1.33:49657
+Jan  1 06:02:57 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:57 dropbear[29545]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:02:57 dropbear[29606]: Child connection from 192.168.1.33:49661
+Jan  1 06:02:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:02:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:02:58 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:02:58 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:02:58 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:02:58 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:02:58 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:02:59 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:00 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:01 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:03 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:03 dropbear[29606]: Bad password attempt for 'root' from 192.168.1.33:49661
+Jan  1 06:03:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:03 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:03 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:04 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:04 dropbear[29606]: Bad password attempt for 'root' from 192.168.1.33:49661
+Jan  1 06:03:04 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 1167.0 bytes/sec).
+Jan  1 06:03:04 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:05 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:05 dropbear[29606]: Bad password attempt for 'root' from 192.168.1.33:49661
+Jan  1 06:03:06 dropbear[29606]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:03:06 dropbear[29679]: Child connection from 192.168.1.33:49667
+Jan  1 06:03:06 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:03:07 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:03:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:08 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:08 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:08 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:09 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 1906.0 bytes/sec).
+Jan  1 06:03:09 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:09 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:10 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:11 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:12 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:13 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:13 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:13 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:03:13 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:14 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:15 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:16 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:17 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:17 dropbear[29679]: Bad password attempt for 'root' from 192.168.1.33:49667
+Jan  1 06:03:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:18 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:18 dropbear[29679]: Bad password attempt for 'root' from 192.168.1.33:49667
+Jan  1 06:03:18 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:18 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:18 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 06:03:18 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:18 dropbear[29679]: Bad password attempt for 'root' from 192.168.1.33:49667
+Jan  1 06:03:19 dropbear[29679]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:03:19 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:19 dropbear[29788]: Child connection from 192.168.1.33:49674
+Jan  1 06:03:20 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:21 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:22 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:23 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:23 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:23 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:03:23 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:23 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:25 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:25 dropbear[29788]: Bad password attempt for 'root' from 192.168.1.33:49674
+Jan  1 06:03:26 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:26 dropbear[29788]: Bad password attempt for 'root' from 192.168.1.33:49674
+Jan  1 06:03:26 dropbear[29788]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:03:26 dropbear[29849]: Child connection from 192.168.1.33:49679
+Jan  1 06:03:27 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:03:28 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:28 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:28 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:28 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3575.0 bytes/sec).
+Jan  1 06:03:28 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:29 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:30 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:31 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:03:32 dropbear[29849]: Bad password attempt for 'root' from 192.168.1.33:49679
+Jan  1 06:03:32 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:32 dropbear[29849]: Bad password attempt for 'root' from 192.168.1.33:49679
+Jan  1 06:03:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:33 dropbear[29849]: Bad password attempt for 'root' from 192.168.1.33:49679
+Jan  1 06:03:33 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:33 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:33 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:33 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:03:33 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:33 dropbear[29849]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:03:34 dropbear[29910]: Child connection from 192.168.1.33:49686
+Jan  1 06:03:34 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:35 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:03:37 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:38 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:38 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:38 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:38 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:03:38 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:39 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:40 dropbear[29910]: Bad password attempt for 'root' from 192.168.1.33:49686
+Jan  1 06:03:40 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:40 dropbear[29910]: Bad password attempt for 'root' from 192.168.1.33:49686
+Jan  1 06:03:41 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:03:41 dropbear[29910]: Bad password attempt for 'root' from 192.168.1.33:49686
+Jan  1 06:03:42 dropbear[29910]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:03:42 dropbear[29971]: Child connection from 192.168.1.33:49691
+Jan  1 06:03:42 utConsoleCom: WiFi Connect: Signal strength is 81
+Jan  1 06:03:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:43 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:43 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:43 utConsoleCom: WiFi Connect: Signal strength is 81
+Jan  1 06:03:43 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:03:43 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:44 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:45 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:46 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:48 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:48 dropbear[29971]: Bad password attempt for 'root' from 192.168.1.33:49691
+Jan  1 06:03:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:48 dropbear[29971]: Bad password attempt for 'root' from 192.168.1.33:49691
+Jan  1 06:03:48 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:48 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:48 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:03:48 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:48 dropbear[29971]: Bad password attempt for 'root' from 192.168.1.33:49691
+Jan  1 06:03:49 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:49 dropbear[29971]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:03:49 dropbear[30032]: Child connection from 192.168.1.33:49695
+Jan  1 06:03:50 utConsoleCom: WiFi Connect: Signal strength is 78
+Jan  1 06:03:51 utConsoleCom: WiFi Connect: Signal strength is 75
+Jan  1 06:03:52 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:53 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:53 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:53 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:53 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 3813.0 bytes/sec).
+Jan  1 06:03:53 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:54 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:03:55 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:55 dropbear[30032]: Bad password attempt for 'root' from 192.168.1.33:49695
+Jan  1 06:03:56 dropbear[30032]: Bad password attempt for 'root' from 192.168.1.33:49695
+Jan  1 06:03:56 utConsoleCom: WiFi Connect: Signal strength is 72
+Jan  1 06:03:57 dropbear[30032]: Exit before auth (user 'root', 3 fails): Exited normally
+Jan  1 06:03:57 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:03:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:03:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:03:58 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:03:58 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:03:58 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5200.0 bytes/sec).
+Jan  1 06:03:58 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:03:59 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:00 utConsoleCom: WiFi Connect: Signal strength is 75
+Jan  1 06:04:01 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:02 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:03 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:03 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:03 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:03 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 7150.0 bytes/sec).
+Jan  1 06:04:03 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:04 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:05 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:06 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:07 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:08 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:08 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:08 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 06:04:08 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:08 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:04:10 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:11 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:12 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:13 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:04:13 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:13 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:13 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 06:04:13 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:14 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:15 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:16 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:17 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:18 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:18 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:18 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:18 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 06:04:18 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:19 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:21 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:22 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:23 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:04:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:23 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:23 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:23 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:23 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:04:23 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:24 utConsoleCom: WiFi Connect: Signal strength is 70
+Jan  1 06:04:24 soap_get: URL is http://machines.iconfitness.com/iFitLiveServices/services/WorkoutDownloadWebServiceV1
+Jan  1 06:04:24 soap_get: Agent Model: EXIF2012
+Jan  1 06:04:24 soap_get: Agent version: 1.0.0
+Jan  1 06:04:25 soap_get: soap_get exiting with errorcode 10
+Jan  1 06:04:25 parse_xml: Error getting converted date string. Clock will not be changed
+Jan  1 06:04:25 parse_xml: User count: 1
+Jan  1 06:04:25 parse_xml: [User 0]
+Jan  1 06:04:25 parse_xml: 	  Name: kelseyn
+Jan  1 06:04:25 parse_xml: 	  Hash: 6d587673-2ffd-41e6-ba72-7ae282cc0c4a
+Jan  1 06:04:25 parse_xml: 	Weight: 138
+Jan  1 06:04:25 utwifi: Loaded user #0: "kelseyn" from userfile
+Jan  1 06:04:25 utwifi: Loaded user weight = 138 for user kelseyn
+Jan  1 06:04:25 utwifi: <>New user information loaded from the file
+Jan  1 06:04:25 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:04:26 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:27 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:28 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:28 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:28 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:28 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 7150.0 bytes/sec).
+Jan  1 06:04:28 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:28 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:04:29 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:30 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:31 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:33 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:33 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:33 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:33 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:33 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:04:33 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:34 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:04:35 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:36 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:37 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:38 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:38 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:38 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:38 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:38 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:04:38 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:39 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:40 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:41 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:42 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:43 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:43 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:43 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:43 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4400.0 bytes/sec).
+Jan  1 06:04:43 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:44 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:45 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:46 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:04:47 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:48 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:48 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:48 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:48 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:04:48 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:48 utConsoleCom: WiFi Connect: Signal strength is 58
+Jan  1 06:04:49 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:50 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:51 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:52 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:53 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:53 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:53 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:53 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:04:53 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:53 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:55 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:56 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:04:57 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:04:58 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:04:58 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:04:58 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:04:58 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:04:58 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 06:04:58 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:04:59 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:00 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:01 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:02 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:05:03 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:05:03 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:05:03 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:05:03 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 6355.0 bytes/sec).
+Jan  1 06:05:03 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:05:03 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:04 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:06 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:07 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:08 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:05:08 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:05:08 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:05:08 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:05:08 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4766.0 bytes/sec).
+Jan  1 06:05:08 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:05:09 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:10 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:05:11 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:11 dropbear[30853]: Child connection from 192.168.1.33:49737
+Jan  1 06:05:12 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:05:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:05:13 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:05:13 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:05:13 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:05:13 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 4400.0 bytes/sec).
+Jan  1 06:05:13 utnetstatus: SM_PING_FAILURE_COUNT set to 0
+Jan  1 06:05:13 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:14 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:15 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:05:17 utConsoleCom: WiFi Connect: Signal strength is 61
+Jan  1 06:05:17 dropbear[30853]: Pubkey auth succeeded for 'root' with key md5 9f:68:1f:57:91:f4:bb:09:2a:d4:4d:90:46:63:c3:fc from 192.168.1.33:49737
+Jan  1 06:05:18 utConsoleCom: WiFi Connect: Signal strength is 64
+Jan  1 06:05:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 15
+Jan  1 06:05:18 utConsoleCom: Write to file index: 5 (/ifit/logs/h4600010.hez): size: 1, count: 56
+Jan  1 06:05:18 utnetstatus: User {6d587673-2ffd-41e6-ba72-7ae282cc0c4a}
+Jan  1 06:05:18 utnetstatus: Sending to http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1
+Jan  1 06:05:18 utnetstatus: http://machines.iconfitness.com/iFitLiveServices/services/WorkoutStatusReportWebServiceV1 returned 200 (572 bytes - 5720.0 bytes/sec).
+Jan  1 06:05:18 utnetstatus: SM_PING_FAILURE_COUNT set to 0
