@@ -172,8 +172,11 @@ public class GUI {
 
 				  JPanel p2 = new JPanel();
 				  String network = "What Network is my Module Connected to?<br><br>"+
-						    "At this point in time there is no easy, sure-fire way to determine what network"
-						    + "the module is connected to. However, in the test lab there will be a limited"
+						    "Push the \"Settings\" button, and push the up or down arrow until you come to an" +
+						    " option that says \"Check WiFi Status\" Then hit enter/select. A test will run, " +
+						    "after it's done, it will display information in the bottom of the screen, in this "+
+						    "information, it will display \"Router:\" followed by a name like ifitlive.<br><br>"
+						    + "In the test lab there will be a limited"
 						    + " number of networks. Here is a table of known networks:<br><br>"
 						    + "eetestlab - 10.0.1.xxx<br>PlaidSpaceship - 192.168.1.xxx<br>"
 						    + "FlyingSpaghettiMonster - 192.168.2.xxx<br>ifitlive - 192.168.7.xxx<br><br>"
