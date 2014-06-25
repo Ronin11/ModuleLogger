@@ -75,7 +75,7 @@ public class Commands {
 			/** Get the logs from the module in a Windows environment using pscp to do all the work **/
 			if(windowsOS){
 				CMDcall("mkdir ModuleLogs\\Data");
-				CMDcall("LoggerAssets\\pscp -i LoggerAssets\\test_putty_private.ppk -scp root@" + IP 
+				CMDcall("echo y | LoggerAssets\\pscp -i LoggerAssets\\test_putty_private.ppk -scp root@" + IP 
 						+ ":/var/log/messages ModuleLogs\\Data\\messages");
 				for(int i = 0; i < 10; i++){
 					CMDcall("LoggerAssets\\pscp -i LoggerAssets\\test_putty_private.ppk -scp root@" + IP + ":/var/log/messages."+ i 
@@ -86,6 +86,7 @@ public class Commands {
 			
 			/** Get the logs from the Module in a Mac/Linux environment. **/
 			else{
+				sysCall("chmod 600 ./testing_rsa");
 				sysCall("mkdir -p ModuleLogs/Data");
 				sysCall("scp -o stricthostkeychecking=no -i ./LoggerAssets/testing_rsa root@"+ IP 
 						+ ":/var/log/messages ModuleLogs/Data/messages");

@@ -88,7 +88,7 @@ public class GUI {
         c.gridwidth = 2;
         pane.add(pBar, c);
         
-		pBar.setStringPainted(true);
+		
         pBar.setVisible(false);
        
         /** Run the rest of the program **/
@@ -237,6 +237,7 @@ public class GUI {
 				isTerminating = false;
 				pBar.setVisible(true);
 				pBar.setValue(0);
+				pBar.setStringPainted(true);
 				while(!isTerminating && pBar.getValue() < 990){
 					if(pBar.getValue() > 330 && pBar.getValue() <= 500)
 						pBar.setString("You can do it!");
@@ -270,10 +271,11 @@ public class GUI {
 		public static void setDone(){
 			try {
 				resetLimit();
-				pBar.setString("Logs Recieved");
+				pBar.setString("Logs Received");
 				pBar.setValue(1000);
 				Thread.sleep(10000);
 				pBar.setVisible(false);
+				pBar.setStringPainted(false);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
