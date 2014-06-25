@@ -86,7 +86,7 @@ public class Commands {
 			
 			/** Get the logs from the Module in a Mac/Linux environment. **/
 			else{
-				sysCall("chmod 600 ./testing_rsa");
+				sysCall("chmod 600 ./LoggerAssets/testing_rsa");
 				sysCall("mkdir -p ModuleLogs/Data");
 				sysCall("scp -o stricthostkeychecking=no -i ./LoggerAssets/testing_rsa root@"+ IP 
 						+ ":/var/log/messages ModuleLogs/Data/messages");
