@@ -37,16 +37,17 @@ public class GUI {
             pane.setComponentOrientation(ComponentOrientation.RIGHT_TO_LEFT);
         }
  
-        /** GUI Component Objects **/
+        /** Autocompletion setup **/
         IP.setHorizontalAlignment(JTextField.CENTER);
         IP.setFocusTraversalKeysEnabled(false);
 		Autocomplete autoComplete = new Autocomplete(IP);
 		IP.getDocument().addDocumentListener(autoComplete);
-
 		// Maps the tab key to the commit action, which finishes the autocomplete
 		// when given a suggestion
 		IP.getInputMap().put(KeyStroke.getKeyStroke("TAB"), COMMIT_ACTION);
 		IP.getActionMap().put(COMMIT_ACTION, autoComplete.new CommitAction());
+		
+		/** GUI Component Objects **/
         enterDir.setHorizontalAlignment(JTextField.CENTER);
         JLabel enterIP = new JLabel("Please enter the IP address of the module");
         JLabel enterDirName = new JLabel("<html><div width=\"300\">Please enter the name for the created directory. No spaces are allowed."

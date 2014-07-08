@@ -47,8 +47,9 @@ public class Commands {
 			else
 				output = MACcall("ping -c 3 -W .05 " + IP);//If the host is there return true.
 
-			//If the host is there, get the logs in a new thread!
+			//If the host is there, get the logs or set the server in a new thread!
 			if(output.contains("round-trip") || output.contains("Average")){
+				//Add the valid IP to the autocompletion list and save it persistantly.
 				try {
 					Autocomplete.addToList(IP);
 					Autocomplete.saveList();

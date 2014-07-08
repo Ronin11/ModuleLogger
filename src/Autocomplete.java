@@ -24,6 +24,7 @@ public class Autocomplete implements DocumentListener {
   private JTextField textField;
   private Mode mode = Mode.INSERT;
   
+  /** this is called when the user selects the Clear Autocomplete Data from the file menu **/
   public static void clearData(){
 	  list.clear();
 	  PrintWriter pw = null;
@@ -38,6 +39,7 @@ public class Autocomplete implements DocumentListener {
 		}
   }
   
+  /** Load the list from the file in LoggerAssets upon startup. **/
   public static void loadList() throws IOException{
 	  Scanner s = null;
       try {
@@ -61,6 +63,7 @@ public class Autocomplete implements DocumentListener {
       }
   }
   
+  /** Save the list persistently by writing it to the file whenever we get a successful ping **/
   public static void saveList() throws IOException{
 	  PrintWriter pw = null;
 	  try {
@@ -84,6 +87,10 @@ public class Autocomplete implements DocumentListener {
       }
   }
   
+  /** Add to the list in such a way, that the most used will be first.
+   * The Autocomplete will start at the top, and if more than one match is found,
+   * then the most used match will be used.
+   **/
   public static void addToList(String s){
 	  s = s.replaceAll(" ", "");
 	  if(list.contains(s))
@@ -93,6 +100,7 @@ public class Autocomplete implements DocumentListener {
 		  list.remove(5);
   }
 
+  /** Constructor to bind the textfield to the Autocomplete class **/
   public Autocomplete(JTextField textField) {
     this.textField = textField;
   }
@@ -103,6 +111,7 @@ public class Autocomplete implements DocumentListener {
   @Override
   public void removeUpdate(DocumentEvent ev) { }
 
+  /** Only complete on insert, which seems more natural for the user **/
   @Override
   public void insertUpdate(DocumentEvent ev) {
     if (ev.getLength() != 1)
@@ -145,6 +154,7 @@ public class Autocomplete implements DocumentListener {
     }
   }
 
+  /** Display the Autocompletion suggestion **/
   public class CommitAction extends AbstractAction {
     /**
      * 
@@ -166,6 +176,7 @@ public class Autocomplete implements DocumentListener {
     }
   }
 
+  /** Do the Autocompletion **/
   private class CompletionTask implements Runnable {
     private String completion;
     private int position;
