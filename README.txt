@@ -16,17 +16,4 @@ To remove the Module Logs program, delete the Module folder.
 	Dependencies:
 The Module Logs program dependencies must be in the following tree, for the program to function.
 
-	Module:
-	|   |
-	|   ModuleLogger.jar
-	|
-	\—LoggerAssets
-	|   |   pscp.exe
-	|   |   testing_rsa
-	|   |   test_putty_private.ppk
-	|   |
-	|   \---res
-	|           bender.png
-	|	
-	\---ModuleLogs
-
+  Module:    |    |   ModuleLogger.jar    |    \—LoggerAssets    |   |   changeServerToLive    |   |   changeServerToTest    |   |   plink.exe    |   |   pscp.exe    |   |   testing_rsa    |   |   test_putty_private.ppk    |   |    |   \---res    |           bender.png    |    \---ModuleLogs
