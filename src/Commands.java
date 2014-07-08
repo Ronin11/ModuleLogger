@@ -16,6 +16,7 @@ public class Commands {
 	private static int option = 0;
 	public static void setOption(int i){option = i;};
 	public static int getOption(){return option;};
+	public static boolean getWindowsOS(){return windowsOS;};
 	 /** Set the IP for the Commands **/
 	 public static void setIP(String ip){IP = ip;}
 	
@@ -48,6 +49,12 @@ public class Commands {
 
 			//If the host is there, get the logs in a new thread!
 			if(output.contains("round-trip") || output.contains("Average")){
+				try {
+					Autocomplete.addToList(IP);
+					Autocomplete.saveList();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
 				switch(option){
 				case(0):
 					Thread logs = new Thread(new getLogs());

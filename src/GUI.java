@@ -1,6 +1,8 @@
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
+import javax.swing.Box;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -13,6 +15,8 @@ import javax.swing.JPanel;
 import javax.swing.JProgressBar;
 import javax.swing.JTabbedPane;
 import javax.swing.JTextField;
+import javax.swing.KeyStroke;
+
  
 public class GUI {
 	
@@ -24,6 +28,7 @@ public class GUI {
     static JProgressBar pBar;
     public static String dirName = null;
     final static JTextField IP = new JTextField(), enterDir = new JTextField();
+    private static final String COMMIT_ACTION = "commit";
     //static boolean IPisValid = false;
  
     /** Create the pane with all the objects **/
@@ -34,6 +39,14 @@ public class GUI {
  
         /** GUI Component Objects **/
         IP.setHorizontalAlignment(JTextField.CENTER);
+        IP.setFocusTraversalKeysEnabled(false);
+		Autocomplete autoComplete = new Autocomplete(IP);
+		IP.getDocument().addDocumentListener(autoComplete);
+
+		// Maps the tab key to the commit action, which finishes the autocomplete
+		// when given a suggestion
+		IP.getInputMap().put(KeyStroke.getKeyStroke("TAB"), COMMIT_ACTION);
+		IP.getActionMap().put(COMMIT_ACTION, autoComplete.new CommitAction());
         enterDir.setHorizontalAlignment(JTextField.CENTER);
         JLabel enterIP = new JLabel("Please enter the IP address of the module");
         JLabel enterDirName = new JLabel("<html><div width=\"300\">Please enter the name for the created directory. No spaces are allowed."
@@ -116,15 +129,19 @@ public class GUI {
         JMenuBar menuBar = new JMenuBar();
         JMenu file, pointTo, helpBar;
         file = new JMenu("File");
-        JMenuItem about, help, pointToTest, pointToLive;
+        JMenuItem about,clearAutocomplete, help, pointToTest, pointToLive;
         about = new JMenuItem("About");
+        clearAutocomplete = new JMenuItem("Clear Autocomplete Data");
         pointTo = new JMenu("Point to Server...");
         helpBar = new JMenu("Help");
         pointToTest = new JMenuItem("Test Server");
         pointToLive = new JMenuItem("Live Server");
         help = new JMenuItem("Help Menu");
         pointTo.add(pointToTest);
+        pointTo.add( Box.createVerticalStrut( 3 ) );
         pointTo.add(pointToLive);
+        file.add(clearAutocomplete);
+        file.add( Box.createVerticalStrut( 3 ) );
         file.add(about);
         helpBar.add(help);
         menuBar.add(file);
@@ -197,7 +214,7 @@ public class GUI {
         about.addActionListener(new ActionListener(){
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				String message = "<html><div width = \"300\"> <font size =\"14\">Version 1.1</font> <br><br>"
+				String message = "<html><div width = \"300\"> <font size =\"14\">Version 1.3</font> <br><br>"
 						+ "This awesome program is brought to you by the one "
 						+ "and only Nate Ashby! <br><br>"
 						+ "<font size=\"2\", font color=\"red\">We are the captains of our ships, "
@@ -225,6 +242,14 @@ public class GUI {
         		runCommands();
 			}
         });
+        clearAutocomplete.addActionListener(new ActionListener(){
+ 			@Override
+ 			public void actionPerformed(ActionEvent e) {
+ 				Autocomplete.clearData();
+ 				JOptionPane.showMessageDialog(frame, "Dictionary data is cleared.");
+ 			}
+         });
+        
     }
  
     /** The class to run the progress bar in it's own thread **/
@@ -252,7 +277,7 @@ public class GUI {
 						if(Commands.getOption() == 0)
 							pBar.setValue(pBar.getValue()+1);
 						else 
-							pBar.setValue(pBar.getValue()+4);
+							pBar.setValue(pBar.getValue()+3);
 						Thread.sleep(75);
 						} 
 					}
@@ -306,7 +331,6 @@ public class GUI {
     private static void runCommands(){        		
     	//Check and make sure the text box isn't empty
 		if(!IP.getText().isEmpty()){
-			
 			//If theres no input for the dirname, leave it null
 			if(!enterDir.getText().isEmpty())
 				dirName = enterDir.getText();
@@ -330,9 +354,13 @@ public class GUI {
     }
     
     public static void main(String[] args) {
-    	
+    try {
     	//Get the OS of the current environment
     	Commands.getOs();
+		Autocomplete.loadList();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
     	
         //Schedule a job for the event-dispatching thread:
         //creating and showing this application's GUI.
