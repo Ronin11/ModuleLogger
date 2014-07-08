@@ -1,7 +1,6 @@
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -24,6 +23,7 @@ public class GUI {
     static JFrame frame;
     static JProgressBar pBar;
     public static String dirName = null;
+    final static JTextField IP = new JTextField(), enterDir = new JTextField();
     //static boolean IPisValid = false;
  
     /** Create the pane with all the objects **/
@@ -33,14 +33,13 @@ public class GUI {
         }
  
         /** GUI Component Objects **/
+        IP.setHorizontalAlignment(JTextField.CENTER);
+        enterDir.setHorizontalAlignment(JTextField.CENTER);
         JLabel enterIP = new JLabel("Please enter the IP address of the module");
-        final JTextField IP = new JTextField();
         JLabel enterDirName = new JLabel("<html><div width=\"300\">Please enter the name for the created directory. No spaces are allowed."
         		+ "<br>(If you leave it blank, the current date and time will be used.)</div></html>");
-        final JTextField enterDir = new JTextField();
         JButton getLogs = new JButton("Get Logs!");
         pBar = new JProgressBar(0,1000);
-        
         pane.setLayout(new GridBagLayout());
         GridBagConstraints c = new GridBagConstraints();
         if (shouldFill) {
@@ -95,29 +94,8 @@ public class GUI {
         getLogs.addActionListener(new ActionListener(){
         	@Override
         	public void actionPerformed(ActionEvent e) {
-        		//Check and make sure the text box isn't empty
-        		if(!IP.getText().isEmpty()){
-        			
-        			//If theres no input for the dirname, leave it null
-        			if(!enterDir.getText().isEmpty())
-        				dirName = enterDir.getText();
-        			//Set the IP Variable in Commands.java
-        			Commands.setIP(IP.getText());
-        			
-        			//Create the progress bar updating thread
-            		Thread progressUpdate = new Thread(new progressBar());
-            		progressUpdate.start();
-            		
-        			//Ping the IP address and see if it's up, to prevent 
-        			//the program from trying to connect to a nonexistant host.
-            		if(!Commands.ping.isRunning){
-            			Thread ping = new Thread(new Commands.ping());
-            			ping.start();
-            		}
-        		}else{
-        			String message = "<html><div width = \"200\"> The IP address cannot be blank! </div></html>";
-        			JOptionPane.showMessageDialog(frame,message);
-        		}
+        		Commands.setOption(0);
+        		runCommands();
         	} 	
         		
         });
@@ -136,14 +114,22 @@ public class GUI {
         
         //Add Menu Bar Components
         JMenuBar menuBar = new JMenuBar();
-        JMenu file;
+        JMenu file, pointTo, helpBar;
         file = new JMenu("File");
-        JMenuItem about, help;
+        JMenuItem about, help, pointToTest, pointToLive;
         about = new JMenuItem("About");
-        help = new JMenuItem("Help");
+        pointTo = new JMenu("Point to Server...");
+        helpBar = new JMenu("Help");
+        pointToTest = new JMenuItem("Test Server");
+        pointToLive = new JMenuItem("Live Server");
+        help = new JMenuItem("Help Menu");
+        pointTo.add(pointToTest);
+        pointTo.add(pointToLive);
         file.add(about);
+        helpBar.add(help);
         menuBar.add(file);
-        menuBar.add(help);
+        menuBar.add(pointTo);
+        menuBar.add(helpBar);
         frame.setJMenuBar(menuBar);       
         
         //Set up the content pane.
@@ -211,7 +197,7 @@ public class GUI {
         about.addActionListener(new ActionListener(){
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				String message = "<html><div width = \"300\"> <font size =\"14\">Version 1.0</font> <br><br>"
+				String message = "<html><div width = \"300\"> <font size =\"14\">Version 1.1</font> <br><br>"
 						+ "This awesome program is brought to you by the one "
 						+ "and only Nate Ashby! <br><br>"
 						+ "<font size=\"2\", font color=\"red\">We are the captains of our ships, "
@@ -223,6 +209,20 @@ public class GUI {
     				    "I'm the greatest!",
     				    JOptionPane.WARNING_MESSAGE,
     				    icon);
+			}
+        });
+        pointToTest.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				Commands.setOption(1);
+        		runCommands();
+			}
+        });
+        pointToLive.addActionListener(new ActionListener(){
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				Commands.setOption(2);
+        		runCommands();
 			}
         });
     }
@@ -238,16 +238,21 @@ public class GUI {
 				pBar.setVisible(true);
 				pBar.setValue(0);
 				pBar.setStringPainted(true);
+				pBar.setString(null);
 				while(!isTerminating && pBar.getValue() < 990){
-					if(pBar.getValue() > 330 && pBar.getValue() <= 500)
+					if(pBar.getValue() > 330 && pBar.getValue() <= 500){
 						pBar.setString("You can do it!");
+					}
 					else if(pBar.getValue() > 500 && pBar.getValue() <= 660)
 						pBar.setString("Run Forrest run!");
 					else if(pBar.getValue() > 660 && pBar.getValue() < 990)
 						pBar.setString("I believe in you!");
 					
 					if(true){
-						pBar.setValue(pBar.getValue()+1);
+						if(Commands.getOption() == 0)
+							pBar.setValue(pBar.getValue()+1);
+						else 
+							pBar.setValue(pBar.getValue()+4);
 						Thread.sleep(75);
 						} 
 					}
@@ -271,7 +276,19 @@ public class GUI {
 		public static void setDone(){
 			try {
 				resetLimit();
-				pBar.setString("Logs Received");
+				pBar.setStringPainted(true);
+				int i = Commands.getOption();
+				switch(i){
+				case(0):
+					pBar.setString("Logs Received");
+					break;
+				case(1):
+					pBar.setString("Module Pointed to Test Server");
+					break;
+				case(2):
+					pBar.setString("Module Pointed to Live Server");
+					break;
+				}
 				pBar.setValue(1000);
 				Thread.sleep(10000);
 				pBar.setVisible(false);
@@ -285,6 +302,32 @@ public class GUI {
 
     public static void setValue(int i){pBar.setValue(i);}
     public static void createWarning(String s){JOptionPane.showMessageDialog(frame,s);}
+    /** All of the ActionListeners will call this **/
+    private static void runCommands(){        		
+    	//Check and make sure the text box isn't empty
+		if(!IP.getText().isEmpty()){
+			
+			//If theres no input for the dirname, leave it null
+			if(!enterDir.getText().isEmpty())
+				dirName = enterDir.getText();
+			//Set the IP Variable in Commands.java
+			Commands.setIP(IP.getText());
+			
+			//Create the progress bar updating thread
+    		Thread progressUpdate = new Thread(new progressBar());
+    		progressUpdate.start();
+    		
+			//Ping the IP address and see if it's up, to prevent 
+			//the program from trying to connect to a nonexistant host.
+    		if(!Commands.ping.isRunning){
+    			Thread ping = new Thread(new Commands.ping());
+    			ping.start();
+    		}
+		}else{
+			String message = "<html><div width = \"200\"> The IP address cannot be blank! </div></html>";
+			JOptionPane.showMessageDialog(frame,message);
+		}
+    }
     
     public static void main(String[] args) {
     	
